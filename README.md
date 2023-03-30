@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CodeChitra
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
+- 👋 Hi, I’m Akash Deep Chitransh
+- 👀 I’m really interested in JavaScript and related technologies like React.js, Next.js and Node.js etc.
+- 🌱 I’m currently working at TCS
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me codechitra@gmail.com
 

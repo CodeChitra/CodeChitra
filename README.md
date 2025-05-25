@@ -2,7 +2,7 @@
 - 👀 I’m really interested in JavaScript and related technologies like React.js, Next.js and Node.js etc.
 - 🌱 I’m currently working at TCS
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me codechitra@gmail.com
+- 📫 How to reach me akashdeep.chitransh13@gmail.com
 
 <!---
 CodeChitra/CodeChitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
